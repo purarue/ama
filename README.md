@@ -5,7 +5,7 @@
 Does not have to be programming related, I don't use a lot of social media so this acts as a forum of sorts.
 
 - Maybe [search my wiki](https://purarue.xyz/x/?search) in case I've already written about the topic.
-- If you want to just leave a comment, do that in [my guestbook instead!](https://purarue.xyz/).
+- If you want to just leave a comment, [sign my guestbook instead](https://purarue.xyz/)!
   - If you want to ask a private question or comment, you can also leave your email in the guestbook, the comments are hidden till I approve them.
 
 ### Guidelines
