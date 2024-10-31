@@ -10,11 +10,9 @@ Does not have to be programming related, I don't use a lot of social media so th
 
 ### Guidelines
 
-- Ensure your question hasn't already been answered.
-- Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite.
+- Use a meaningful title.
+- Bugs & feature requests for other programming projects should be opened on the relevant issue tracker.
+- Be nice :)
 
 ### Links
 
